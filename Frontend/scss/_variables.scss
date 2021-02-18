@@ -4,6 +4,14 @@
 // Color Variables
 // Bootstrap Color Overrides
 
+$theme-colors: (
+  "primary": #0ABAB5,
+  "secondary": #aaaa,
+  "danger": #ff7f00
+);
+
+
+
 $white: #fff !default;
 $gray-100: #f8f9fc !default;
 $gray-200: #eaecf4 !default;
